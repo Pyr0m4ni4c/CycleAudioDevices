@@ -1,0 +1,8 @@
+/.idea/.idea.CycleAudioDevices/.idea/.gitignore
+/.idea/.idea.CycleAudioDevices.dir/.idea/.gitignore
+/.idea/*
+/CycleAudioDevices/bin/*
+/CycleAudioDevices/obj/*
+/CycleAudioDevices/.idea/*
+*.sln.DotSettings.user
+*.csproj.user
